@@ -43,4 +43,4 @@ jobs:
           git commit -m "Update datas"
       - name: Push to repository 
         run: |
-          git push https://${{ secrets.PAT }}@github.com/sprusrxeroxx/sprusrxeroxx.git  # Update URL as needed
+          git push https://${{ secrets.PAT }}@github.com/sprusrxeroxx/sprusrxeroxx.git
