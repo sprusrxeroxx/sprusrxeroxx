@@ -62,4 +62,4 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sprusrxeroxx&layout=compact&card_width=300"/>
 </div>
 
-![Snake animation](https://github.com/thepiyushmalhotra/sprusrxeroxx/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/sprusrxeroxx/sprusrxeroxx/blob/output/github-contribution-grid-snake.svg)
