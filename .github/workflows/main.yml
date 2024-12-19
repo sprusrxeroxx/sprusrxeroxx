@@ -1,10 +1,8 @@
 name: Generate Datas
 
 on:
-  # Existing schedule trigger remains the same
   schedule:
     - cron: "* */12 * * *"
-  # Add a new trigger for push events on the main branch
   push:
     branches:
       - main
