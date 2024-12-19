@@ -34,20 +34,25 @@
 ```
 </div>
 
-<h1> Tools </h1>
+<h1 align="right">🛠️ Tools </h1>
 
-<div class="Tools" >
+<div class="Tools" align="right">
   
   <img height="50" src="https://github.com/user-attachments/assets/7745ef9a-4f0d-48d6-bcf8-3f9994209387"/>
-  <img height="50" src="https://github.com/user-attachments/assets/4add593f-ba7e-4150-b19a-c04a40fb7a3f"/>
-  <img height="50" src="https://github.com/user-attachments/assets/446c4da4-5450-4e90-9297-1995a985488d"/>
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"/>
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg"/>
   <img height="50" src="https://github.com/user-attachments/assets/5a80de32-7795-4338-92fa-43cd54d0f5e4/>
   <img height="50" src="https://github.com/user-attachments/assets/6843f877-a5a1-4351-a9c2-a987f63a6bfd"/>
   <img height="50" src="https://github.com/user-attachments/assets/a9961048-fecd-4846-ad2a-d2459c2a04d0"/>
   <img height="50" src="https://github.com/user-attachments/assets/58c9d91c-8263-4992-8ed6-8bad2359bd62"/>
   <img height="50" src="https://github.com/user-attachments/assets/12726292-4c71-43f2-b75b-588196372957"/>
   <img height="50" src="https://github.com/user-attachments/assets/43ee1569-ca74-4045-bb28-30152fd01c5c"/>
-  <img height="50" src="https://github.com/user-attachments/assets/c855198b-b6ed-46f0-9e5c-59fddb17a212"/>
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg"/>
   <img height="50" src="https://github.com/user-attachments/assets/9013bb6f-8dcd-4458-935d-b6333aadf330"/>
-"/>
+  <img height="50" src="https://github.com/user-attachments/assets/8cdee4f1-2bfc-4b78-ae58-60bc747e45d3"/>
+  <img height="50" src="https://github.com/user-attachments/assets/005d9f81-5952-455a-8e0f-c8fc40922e65"/>
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg"/>
 </div>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sprusrxeroxx&show_icons=true)](https://github.com/sprusrxeroxx/github-readme-stats)
