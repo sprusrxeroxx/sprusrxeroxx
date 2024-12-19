@@ -23,7 +23,7 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.TOKEN }}
 
   # New job for pushing to repository (optional)
   push-data:
@@ -43,4 +43,4 @@ jobs:
           git commit -m "Update datas"
       - name: Push to repository 
         run: |
-          git push https://${{ secrets.PAT }}@github.com/sprusrxeroxx/sprusrxeroxx.git
+          git push https://${{ secrets.TOKEN }}@github.com/sprusrxeroxx/sprusrxeroxx.git
