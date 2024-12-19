@@ -27,7 +27,7 @@
               [ 
                 web_developer            :  pick_n_brand
                 cloud_architect_trainee  :  mercer_inter_ed
-                soc_analyst_inter        :  rayton_corp
+                soc_analyst_intern       :  rayton_corp
               ]
   pursuits  : [ react, docker, wasm, etl_data_processing ]
   leisures  : [ gaming, chess, music_production ]
