@@ -3,13 +3,13 @@
 </p>
 <div class="Links" align="center" >
     <a href="https://medium.com/@ntokozovilakazi36">
-    <img height="50" src="https://github.com/user-attachments/assets/2c376a6b-f5bb-473f-848f-6073467fbf65"/>
+    <img height="50" src="https://github.com/user-attachments/assets/1ab4d31a-3c72-46a4-a9d2-8c595cca7cbc"/>
   </a>
   <a href="https://www.linkedin.com/in/ntokozovilakazi-back-end-developer">
-    <img height="50" src="https://github.com/user-attachments/assets/624b4429-6a7a-4de8-97d7-f85fff2b99aa"/>
+    <img height="50" src="https://github.com/user-attachments/assets/40193902-a42e-40f8-b55b-db1b72ce642c"/>
   </a>
   <a href="https://dev.to/sprusrxeroxx">
-    <img height="50" src="https://github.com/user-attachments/assets/91352b47-e38b-4f61-af15-a0696c5d143d"/>
+    <img height="50" src="https://github.com/user-attachments/assets/225139af-c447-4122-8efb-74f54bfdfd89"/>
   </a>
 </div>
 <div class="giF" align="center" >
