@@ -108,4 +108,4 @@
 
 <h1 align="center"> Github History 📊 </h1>
 
-<![Snake animation](https://raw.githubusercontent.com/sprusrxeroxx/sprusrxeroxx/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/sprusrxeroxx/sprusrxeroxx/output/github-contribution-grid-snake-dark.svg)
