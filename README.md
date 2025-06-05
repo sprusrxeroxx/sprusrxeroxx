@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Welcome%20Stranger&fontColor=f4e9e9&reversal=false&textBg=false&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Welcome%20Stranger&fontColor=f4e9e9&reversal=false&textBg=false&animation=twinkling&fontAlignY=90"/>
 </p>
 <div class="Links" align="center" >
     <a href="https://medium.com/@ntokozovilakazi36">
