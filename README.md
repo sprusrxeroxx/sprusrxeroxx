@@ -1,18 +1,18 @@
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Anonymous+Pro&weight=500&size=30&pause=1000&color=d99c9c&center=true&width=460&lines=H3LL0+FRI3N8;W3LC0M3+70+%2F%5C%2F%5CY+D0M41N+X_X;3NJ0Y+(%3A" alt="Typing SVG" /></a></div>
-<div class="Links" align="center" >
-    <a href="https://medium.com/@ntokozovilakazi36">
-    <img height="50" src="https://github.com/user-attachments/assets/1ab4d31a-3c72-46a4-a9d2-8c595cca7cbc"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ntokozovilakazi-back-end-developer">
-    <img height="50" src="https://github.com/user-attachments/assets/40193902-a42e-40f8-b55b-db1b72ce642c"/>
-  </a>
-  <a href="https://dev.to/sprusrxeroxx">
-    <img height="50" src="https://github.com/user-attachments/assets/225139af-c447-4122-8efb-74f54bfdfd89"/>
-  </a>
-</div>
 <div class="giF" align="center" >
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjBlZnoyM3ZwOTVvZnJseXgzbmNqeHhpNm4yZjZxMGN4djc5eXllYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4FGo2HgcJHi4prFK/giphy.gif"/>
+    <div class="Links" align="center" >
+      <a href="https://medium.com/@ntokozovilakazi36">
+      <img height="50" src="https://github.com/user-attachments/assets/1ab4d31a-3c72-46a4-a9d2-8c595cca7cbc"/>
+    </a>
+    <a href="https://www.linkedin.com/in/ntokozovilakazi-back-end-developer">
+      <img height="50" src="https://github.com/user-attachments/assets/40193902-a42e-40f8-b55b-db1b72ce642c"/>
+    </a>
+    <a href="https://dev.to/sprusrxeroxx">
+      <img height="50" src="https://github.com/user-attachments/assets/225139af-c447-4122-8efb-74f54bfdfd89"/>
+    </a>
+  </div>
 </div>
 
 <h1 align="center"> MetaData 👾 </h1>
