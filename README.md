@@ -44,24 +44,24 @@
 <div class="Bio">
   
 ```yaml
-  tribute   : NTK
-  district  : 011, ZA
-  group     : otaku
-  quests    :
-              [ 
-                web_developer            :  pick_n_brand
-                cloud_architect_trainee  :  mercer_inter_ed
-                junior_soc_analyst       :  rayton_corp
-              ]
-  exploits  : [ react,
-                docker,
-                wasm,
-                etl_data_processing
-              ]
-  leisures  : [
-                gaming,
-                chess
-              ]
+                                      tribute   : NTK
+                                      district  : 011, ZA
+                                      group     : otaku
+                                      quests    :
+                                                  [ 
+                                                    web_developer            :  pick_n_brand
+                                                    cloud_architect_trainee  :  mercer_inter_ed
+                                                    junior_soc_analyst       :  rayton_corp
+                                                  ]
+                                      exploits  : [ react,
+                                                    docker,
+                                                    wasm,
+                                                    etl_data_processing
+                                                  ]
+                                      leisures  : [
+                                                    gaming,
+                                                    chess
+                                                  ]
 ```
 </div>
 
