@@ -108,5 +108,5 @@
 
 <h1 align="center"> Github History 📊 </h1>
 <div class="Snake" >
-      <img src="https://github.com/sprusrxeroxx/sprusrxeroxx/raw/main/output/github-contribution-grid-snake.gif" alt="GitHub Contribution Grid Snake" />
+      <![Snake animation](https://raw.githubusercontent.com/{username}/{username}/output/github-contribution-grid-snake-dark.svg)
 </div>
