@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Welcome%20Stranger&fontColor=f4e9e9&reversal=false&textBg=false&animation=twinkling&fontAlignY=85"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&textBg=false&fontAlign=50&animation=twinkling&descAlign=16&descAlignY=74&section=header&fontColor=black&fontAlignY=50&reversal=true"/>
 </p>
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Anonymous+Pro&weight=500&size=30&pause=1000&color=d99c9c&center=true&width=460&lines=H3LL0+FRI3N8;W3LC0M3+70+%2F%5C%2F%5CY+D0M41N+X_X;3NJ0Y+(%3A" alt="Typing SVG" /></a></div>
 <div class="Links" align="center" >
     <a href="https://medium.com/@ntokozovilakazi36">
     <img height="50" src="https://github.com/user-attachments/assets/1ab4d31a-3c72-46a4-a9d2-8c595cca7cbc"/>
