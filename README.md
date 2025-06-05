@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&textBg=false&fontAlign=50&animation=twinkling&descAlign=16&descAlignY=74&section=header&fontColor=black&fontAlignY=50&reversal=true"/>
-</p>
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Anonymous+Pro&weight=500&size=30&pause=1000&color=d99c9c&center=true&width=460&lines=H3LL0+FRI3N8;W3LC0M3+70+%2F%5C%2F%5CY+D0M41N+X_X;3NJ0Y+(%3A" alt="Typing SVG" /></a></div>
 <div class="Links" align="center" >
@@ -18,27 +15,79 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjBlZnoyM3ZwOTVvZnJseXgzbmNqeHhpNm4yZjZxMGN4djc5eXllYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4FGo2HgcJHi4prFK/giphy.gif"/>
 </div>
 
-<h1> MetaData 👾 </h1>
+<h1 align="center"> MetaData 👾 </h1>
+
+```
+                                                ...                            
+                                               ;::::;                           
+                                             ;::::; :;                          
+                                           ;:::::'   :;                         
+                                          ;:::::;     ;.                        
+                                         ,:::::'  +   +;          OOO\          
+                                         ::::::;       ;          OOOOO\        
+                                         ;:::::;       ;         OOOOOOOO       
+                                        ,;::::::;     ;'         / OOOOOOO      
+                                      ;:::::::::`. ,,,;.        /  / DOOOOOO    
+                                    .';:::::::::::::::::;,     /  /     DOOOO   
+                                   ,::::::;::::::;;;;::::;,   /  /        DOOO  
+                                  ;`::::::`'::::::;;;::::: ,#/  /          DOOO 
+                                  :`:::::::`;::::::;;::: ;::#  /            DOOO
+                                  ::`:::::::`;:::::::: ;::::# /              DOO
+                                  `:`:::::::`;:::::: ;::::::#/               DOO
+                                   :::`:::::::`;; ;:::::::::##                OO
+                                   ::::`:::::::`;::::::::;:::#                OO
+                                   `:::::`::::::::::::;'`:;::#                O 
+                                    `:::::`::::::::;' /  / `:#                  
+                                     ::::::`:::::;'  /  /   `#           
+```
 
 <div class="Bio">
   
 ```yaml
   tribute   : NTK
   district  : 011, ZA
+  group     : otaku
   quests    :
               [ 
                 web_developer            :  pick_n_brand
                 cloud_architect_trainee  :  mercer_inter_ed
                 junior_soc_analyst       :  rayton_corp
               ]
-  pursuits  : [ react, docker, wasm, etl_data_processing ]
-  leisures  : [ gaming, chess, music_production ]
+  exploits  : [ react,
+                docker,
+                wasm,
+                etl_data_processing
+              ]
+  leisures  : [
+                gaming,
+                chess
+              ]
 ```
 </div>
 
-<h1 align="right">🛠️ Tools </h1>
+<h1 align="center"> Tools 🛠️</h1>
 
-<div class="Tools" align="right">
+```            
+                                .__________________________________________________.
+                                ||////////////////////////////////////////////////||
+                                ||////////////////////////////////////////////////||
+                                ||////////////////////////////////////////////////||
+                                ||////////////////////////////////////////////////||    ___.
+                                ||////////////////////////////////////////////////||   /    \
+                                !__________________________________________________!  |      |
+                                |   __ __ __ __ __ __ __ __ __ __  /|\ ATARI 2080ST|  |      |
+                                |__/_//_//_//_//_//_//_//_//_//_/____________--____|  |  .---|---.
+                                | ______________________________________________   |  |  |   |   |
+                                | [][][][][][][][][][][][][][][__] [_][_] [][][][] |  |  |---'---|
+                                | [_][][][][][][][][][][][][]| |[] [][][] [][][][] |  |  |       |
+                                | [__][][][][][][][][][][][][__|[] [][][] [][][][] |  |  |       |
+                                | [_][][][][][][][][][][][][_]            [][][]|| |  |  |  /|\  |
+                                |    [_][________________][_]             [__][]LI |  |   \_____/
+                                |__________________________________________________|  ;
+                                                                                 \___/
+```
+
+<div class="Tools" align="center">
   
   <img height="50" src="https://github.com/user-attachments/assets/7745ef9a-4f0d-48d6-bcf8-3f9994209387"/>
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"/>
@@ -57,11 +106,6 @@
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg"/>
 </div>
 
-<h1> My Github History 📊 </h1>
-
-<div class="cards" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sprusrxeroxx&theme=swift&card_width=600#gh-light-mode-only" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sprusrxeroxx&layout=compact"/>
-</div>
+<h1 align="center"> Github History 📊 </h1>
 
 ![Snake animation](https://github.com/sprusrxeroxx/sprusrxeroxx/blob/output/github-contribution-grid-snake.svg)
