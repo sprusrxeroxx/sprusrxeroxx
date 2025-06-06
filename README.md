@@ -63,9 +63,9 @@
                                                     gaming,
                                                     chess
                                                   ]
-                                      music     : recently been on an Alfa Mist loop, so that should paint my for tastes.
+                                      music     : 408
                                       series    : Mr Robot, Breaking Bad and Adventure Time Duh \0/
-                                      anime     : ? ? ?
+                                      anime     : 401
                                       language  : Zulu
                                                                      
 ```
