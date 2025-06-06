@@ -67,7 +67,12 @@
                                       series    : Mr Robot, Breaking Bad and Adventure Time Duh \0/
                                       anime     : 401
                                       language  : Zulu
-                                                                     
+                                      skiils    : [
+                                                    backend development,
+                                                    system design,
+                                                    playing well with others,
+                                                    breaking into networks 
+                                                  ]                                                        
 ```
 </div>
 
