@@ -63,7 +63,7 @@
                                                     gaming,
                                                     chess
                                                   ]
-                                      music     :  recently been on an Alfa Mist loop, so that should paint my for tastes.
+                                      music     : recently been on an Alfa Mist loop, so that should paint my for tastes.
                                       series    : Mr Robot, Breaking Bad and Adventure Time Duh \0/
                                       anime     : ? ? ?
                                       language  : Zulu
