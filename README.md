@@ -49,11 +49,12 @@
                                       group     : otaku
                                       quests    :
                                                   [ 
-                                                    web_developer            :  pick_n_brand
-                                                    cloud_architect_trainee  :  mercer_inter_ed
-                                                    junior_soc_analyst       :  rayton_corp
+                                                    web_developer,            :  pick_n_brand
+                                                    cloud_architect_trainee,  :  mercer_inter_ed
+                                                    junior_soc_analyst,       :  rayton_corp
                                                   ]
-                                      exploits  : [ react,
+                                      exploits  : [
+                                                    react,
                                                     docker,
                                                     wasm,
                                                     etl_data_processing
@@ -62,6 +63,11 @@
                                                     gaming,
                                                     chess
                                                   ]
+                                      music     :  recently been on an Alfa Mist loop, so that should paint my for tastes.
+                                      series    : Mr Robot, Breaking Bad and Adventure Time Duh \0/
+                                      anime     : ? ? ?
+                                      language  : Zulu
+                                                                     
 ```
 </div>
 
